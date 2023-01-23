@@ -23,7 +23,7 @@
 <p align="justify">
 Eu desenvolvi uma página de homenagem ao Dr. Norman Borlaug, utilizando HTML e CSS. O site também está totalmente responsivo e fiz o deploy do mesmo.
 
-link do site: <a href="#" target="_blank">Tribute-Page</a>
+link do site: <a href="https://tribute-page-snowy.vercel.app/" target="_blank">Tribute-Page</a>
 </p>
 
 ## Funcionalidades
